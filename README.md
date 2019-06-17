@@ -16,3 +16,5 @@ Exercises made during "Databases" classes (III winter semester, 2018/19)
 1. Normalization
 1. Database implementation, columns, data types, integrity, sequences\
 ```BEGIN, COMMIT, CREATE SCHEMA, DROP TABLE, CREATE TABLE, CHECK(), REFERENCES, COPY, CURRVAL(), ALTER TABLE, ADD CONSTRAINT, SERIAL```
+1. Advanced subqueries
+1. PL/pgSQL language
